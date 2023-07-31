@@ -1,11 +1,12 @@
 ![example event parameter](https://github.com/kaspeya/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg?event=push)
 # YaMDb ( docker-compose )
 
-#### Проект доступен по следующим ссылкам:
+#### Проект доступен после запуска на localhost по следующим ссылкам:
 
-[Админка](http://130.193.36.243/admin/)<br/>
-[API](http://130.193.36.243/api/v1)<br/>
-Документация в формате [ReDoc](http://130.193.36.243/redoc)<br/>
+
+[Админка](http://127.0.0.1:8000/admin/)<br/>
+[API](http://127.0.0.1:8000/api/v1)<br/>
+Документация в формате [ReDoc](http://127.0.0.1:8000/redoc)<br/>
 
 ## Описание: 
 
